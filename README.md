@@ -86,4 +86,5 @@ Output:
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1916" height="854" alt="image" src="https://github.com/user-attachments/assets/7128f089-cb4b-47b8-908c-4e845ce019f0" />
+
